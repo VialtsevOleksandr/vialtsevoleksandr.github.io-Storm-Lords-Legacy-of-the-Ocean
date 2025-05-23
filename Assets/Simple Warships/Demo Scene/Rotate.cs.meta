@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d7d03d675eb56d048bfe1feaea6525d1
+timeCreated: 1517541372
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132302
+  packageName: Simple Warships
+  packageVersion: 1.0
+  assetPath: Assets/Simple Warships/Demo Scene/Rotate.cs
+  uploadId: 282744

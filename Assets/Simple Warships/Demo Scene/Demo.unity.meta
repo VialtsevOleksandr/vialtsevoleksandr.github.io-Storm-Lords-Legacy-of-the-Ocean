@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed5238fa3f44c384896402bc9e60447c
+timeCreated: 1541117243
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132302
+  packageName: Simple Warships
+  packageVersion: 1.0
+  assetPath: Assets/Simple Warships/Demo Scene/Demo.unity
+  uploadId: 282744

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d79733c473bc2a1429566a22e23d8f02
+timeCreated: 1542236475
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132302
+  packageName: Simple Warships
+  packageVersion: 1.0
+  assetPath: Assets/Simple Warships/Demo Scene/ReadMe.txt
+  uploadId: 282744

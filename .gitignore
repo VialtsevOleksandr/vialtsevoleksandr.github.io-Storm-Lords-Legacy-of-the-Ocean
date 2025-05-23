@@ -1,0 +1,47 @@
+# Unity – головні ігноровані папки
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity – персональні налаштування, які не мають бути в репозиторії
+UserSettings/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Rider / VSCode
+.idea/
+*.code-workspace
+
+# OS файли
+.DS_Store
+*.swp
+*.bak
+*.tmp
+Thumbs.db
+desktop.ini
+
+# GitHub Pages – ігнорувати, якщо WebGL білд не зберігаєш тут
+docs/
+
+# Unity Cloud Build
+.collabignore
+
+# Unity Asset Store
+*.unitypackage
